@@ -1,6 +1,6 @@
 body {margin:0;}
 
-ul {
+.nav_ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -11,11 +11,11 @@ ul {
   width: 100%;
 }
 
-li {
+.nav_li {
   float: left;
 }
 
-li a {
+.nav_li a {
   display: block;
   color: white;
   text-align: center;
